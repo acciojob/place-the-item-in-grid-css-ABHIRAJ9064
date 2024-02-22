@@ -1,2 +1,8 @@
-
-/* Your CSS Code here. */
+.holder{
+width: 500;
+height: 500px;	
+display: grid;
+gap: 10px;
+ grid-template-row: 200px 200px;
+grid-template-columns: 200px 200px;	
+}
